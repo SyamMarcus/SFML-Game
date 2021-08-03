@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (SFML test.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Enemy.cpp
+c:\users\all\source\repos\sfml test\sfml test\enemy.cpp(19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\all\source\repos\sfml test\sfml test\enemy.cpp(101): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\all\source\repos\sfml test\sfml test\enemy.cpp(130): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  SFML test.vcxproj -> C:\Users\ALL\source\repos\SFML test\Debug\SFML game.exe
